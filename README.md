@@ -71,6 +71,20 @@
 `java.io.Serializable`,
 
 
+## Observer
+
+### Concept:
+* One to Many
+* Pub/Sub( synchronous)
+* Decoupled
+* Event Handling
+
+### Example:
+`java.util.Observer`,
+`java.util.EventListner`,
+`java.jms.Topic`
+
+
 ### Sample MD flow diagram
 ```mermaid
 graph LR
